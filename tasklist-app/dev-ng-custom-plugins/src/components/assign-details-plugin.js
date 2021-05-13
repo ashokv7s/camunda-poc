@@ -110,4 +110,4 @@ var mockUsersAPI = [
 ]
 
 // http://localhost:8080/camunda/api/engine/engine/default/task/79e97e62-b346-11eb-831c-04ed33b174bb/assignee
-{"userId":"john"}
+// {"userId":"john"}
